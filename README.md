@@ -27,7 +27,7 @@ I focus on building **robust, scalable, and secure systems**, with a growing int
 ## 🛠️ Tech Stack
 
 ### 💻 Programming & Core
-- JavaScript (ES6+), TypeScript, Python, PHP, SQL
+- JavaScript (ES6+), TypeScript, Python, PHP, SQL, C, C++
 
 ### 🌐 Full-Stack Development
 - **Frontend:** HTML, CSS, Bootstrap, Tailwind, React.js, EJS  
@@ -79,7 +79,7 @@ A full-stack marketplace designed to:
 
 ## 💼 Experience
 
-### 💻 Freelance Software Developer (2024 – Present)
+### 💻 Freelance Software Developer (2024 – 2025)
 - Building full-stack web applications
 - Designing scalable and maintainable systems
 
