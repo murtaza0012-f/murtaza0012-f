@@ -75,7 +75,7 @@ A full-stack marketplace designed to:
 - Scalable backend architecture
 - Clean and responsive frontend
 - 
-### 🔐Secured Password Manager (Walkman hackaton)
+### 🔐Secured Password Manager (Walkmanpass hackaton)
 A zero-knowledge secured plateform designed to: 
 
 - Store the passwords in a highly secured environment
