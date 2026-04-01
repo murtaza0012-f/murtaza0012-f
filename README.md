@@ -74,18 +74,18 @@ A full-stack marketplace designed to:
 - Product and order management system
 - Scalable backend architecture
 - Clean and responsive frontend
-### 🌍 Afghan Marketplace Platform (Ongoing)
-###🔐Secured Password Manager (Walkman hackaton)
+- 
+### 🔐Secured Password Manager (Walkman hackaton)
 A zero-knowledge secured plateform designed to: 
 
 - Store the passwords in a highly secured environment
 - Managin the personal and bussiness essential passwords
 - Very easy to use for users
 
-##Key Features:**
+## Key Features:**
 - MVC architecture
 - Zero knowledge data storage
-##🔗Live demo: https://walkmanpass.vercel.app
+## 🔗Live demo: https://walkmanpass.vercel.app
 ---
 
 ## 💼 Experience
